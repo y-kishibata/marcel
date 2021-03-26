@@ -1,14 +1,14 @@
 PATH
   remote: .
   specs:
-    marcel (0.3.3)
-      mimemagic (~> 0.3.2)
+    marcel (0.3.3.1)
+      mimemagic (~> 0.3.9)
       mini_mime (~> 1.0.2)
 
 GEM
   remote: https://rubygems.org/
   specs:
-    mimemagic (0.3.6)
+    mimemagic (0.3.9)
     mini_mime (1.0.2)
     minitest (5.11.3)
     rack (2.1.4)
